@@ -37,7 +37,7 @@ a:hover {color:red;}</Style>
 <p id="v8"></p> 
 <p id="v6"></p> 
 <h8 class="center">这是学习创建的文件</h8>
-<h6><p style="font-family:arial;color:red">大家好！介绍一下本人：我来自湖北，是草根打工人</h6> 
+<h6><p style="font-family:arial;color:red">大家好！介绍一下本人：我来自中国湖北</h6> 
 <a></a>
 <p id="v9"></p> 
 </body><img src="Screenshot_20220411_220620_com.rarible.android.release_edit_43375431541818.jpg"><img src="Screenshot_20220320_140342_com.baidu.netdisk.jpg""><img src="Screenshot_20220411_220644_com.rarible.android.release_edit_43405738517855.jpg">
